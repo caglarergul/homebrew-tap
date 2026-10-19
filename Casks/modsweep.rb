@@ -5,7 +5,7 @@ cask "modsweep" do
   url "https://github.com/caglarergul/modsweep-releases/releases/download/v#{version}/modsweep-#{version}.dmg"
   name "modsweep"
   desc "Find, analyze and safely clean node_modules in JavaScript projects"
-  homepage "https://github.com/caglarergul/modsweep"
+  homepage "https://github.com/caglarergul/modsweep-releases"
 
   depends_on macos: ">= :sonoma"
 
