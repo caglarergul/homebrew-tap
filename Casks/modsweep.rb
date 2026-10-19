@@ -1,6 +1,6 @@
 cask "modsweep" do
-  version "1.1.2"
-  sha256 "99fa84b51c41f72110a1a9526b659a6964cd0414f893e37d85c6e4ba985b6f81"
+  version "1.1.3"
+  sha256 "17b261276efaa3ed02fb0d4a11a40874897852fa1192c2a8c845990932cc5f5e"
 
   url "https://github.com/caglarergul/modsweep-releases/releases/download/v#{version}/modsweep-#{version}.dmg"
   name "modsweep"
