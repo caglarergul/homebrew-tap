@@ -7,7 +7,7 @@ cask "modsweep" do
   desc "Find, analyze and safely clean node_modules in JavaScript projects"
   homepage "https://github.com/caglarergul/modsweep-releases"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "modsweep.app"
 
