@@ -1,7 +1,7 @@
 # Homebrew cask for caglarergul/homebrew-tap (Casks/modsweep.rb). Filled in by app/release/release.sh.
 cask "modsweep" do
-  version "1.4.0"
-  sha256 "cc8970eda83a24ef3cf2da88a82b375219b97ff0778594cb28f1d110a84d1f47"
+  version "1.4.1"
+  sha256 "daa8000f4dc7c90e84ce62d3abe5af11828300f0abbaea56f77c080c30d4194c"
 
   url "https://github.com/caglarergul/modsweep-macos/releases/download/v#{version}/modsweep-#{version}.dmg"
   name "modsweep"
